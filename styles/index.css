@@ -1,8 +1,8 @@
-.liveable{
-    width: 80%;
+.discus{
+    width: 98%;
     height: 600px;
-    background-image: url(../assets/Rectangle.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-image: url(../assets/bg.jpg);
+}
+input::placeholder{
+    color:#A0A0A0;
 }
